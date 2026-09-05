@@ -1,6 +1,6 @@
 -- ══════════════════════════════════════════
 -- TechStore — Consultas Básicas SELECT
--- Autor: [Gonzalo Balmaceda]
+-- Autor: [Gonzalo Ariel Balmaceda]
 -- Fecha: [05/09/2026]
 -- ══════════════════════════════════════════
 
