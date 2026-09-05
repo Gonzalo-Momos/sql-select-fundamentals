@@ -1,3 +1,5 @@
+sql
+
 -- ══════════════════════════════════════════
 -- TechStore — Consultas Básicas SELECT
 -- Autor: [Gonzalo Ariel Balmaceda]
