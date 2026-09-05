@@ -22,3 +22,7 @@ FROM sales;
 ```
 
 la persona de finanzas ve directamente **`monto_total`** en el resultado, sin necesidad de preguntarle a un desarrollador qué significa `total_amount`. El alias elimina la barrera del inglés técnico y hace que el reporte se pueda leer e interpretar de forma autónoma, sin depender de quien escribió la consulta original.
+
+
+<u>**Nota:**</u> Soy principiante absoluto en programación y GitHub, me costó bastante mas de lo esperado usar esta página y no es de lo mas intuitiva, sería bueno que en algún momento se tocará como parte del curso, ya que se usa bastante por lo visto. El uso de las negritas, formato, el cargado las ubicaciones de los archivos para las entregas, etc.
+Saludos.- 
